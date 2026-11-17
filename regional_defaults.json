@@ -1,0 +1,1748 @@
+{
+  "source": "Unicode CLDR territory language data via Babel 2.18.0",
+  "countries": {
+    "AD": {
+      "culture": "ca-AD",
+      "basis": "CLDR official-language population default",
+      "population_percent": 51.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AE": {
+      "culture": "ar-AE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 78.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AF": {
+      "culture": "fa-AF",
+      "basis": "CLDR official-language population default",
+      "population_percent": 50.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "AG": {
+      "culture": "en-AG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 86.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AI": {
+      "culture": "en-AI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AL": {
+      "culture": "sq-AL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AM": {
+      "culture": "hy-AM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AO": {
+      "culture": "pt-AO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 67.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AQ": {
+      "culture": "und-AQ",
+      "basis": "CLDR highest population language fallback",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AR": {
+      "culture": "es-AR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AS": {
+      "culture": "sm-AS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 99.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "AT": {
+      "culture": "de-AT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 97.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AU": {
+      "culture": "en-AU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 96.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AW": {
+      "culture": "nl-AW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 97.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AX": {
+      "culture": "sv-AX",
+      "basis": "CLDR official-language population default",
+      "population_percent": 99.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "AZ": {
+      "culture": "az-AZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 89.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BA": {
+      "culture": "bs-Cyrl-BA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 99.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "BB": {
+      "culture": "en-BB",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BD": {
+      "culture": "bn-BD",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BE": {
+      "culture": "nl-BE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 55.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BF": {
+      "culture": "fr-BF",
+      "basis": "CLDR official-language population default",
+      "population_percent": 25.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BG": {
+      "culture": "bg-BG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BH": {
+      "culture": "ar-BH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 87.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BI": {
+      "culture": "rn-BI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 63.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "BJ": {
+      "culture": "fr-BJ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 34.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BL": {
+      "culture": "fr-BL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 85.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BM": {
+      "culture": "en-BM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 92.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BN": {
+      "culture": "ms-BN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 93.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BO": {
+      "culture": "es-BO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 61.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BQ": {
+      "culture": "nl-BQ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 8.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BR": {
+      "culture": "pt-BR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 91.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BS": {
+      "culture": "en-BS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BT": {
+      "culture": "dz-BT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 47.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BV": {
+      "culture": "no-BV",
+      "basis": "CLDR highest population language fallback",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BW": {
+      "culture": "en-BW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 81.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BY": {
+      "culture": "be-BY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "BZ": {
+      "culture": "en-BZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CA": {
+      "culture": "en-CA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 87.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CC": {
+      "culture": "en-CC",
+      "basis": "CLDR official-language population default",
+      "population_percent": 17.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CD": {
+      "culture": "fr-CD",
+      "basis": "CLDR official-language population default",
+      "population_percent": 51.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CF": {
+      "culture": "sg-CF",
+      "basis": "CLDR official-language population default",
+      "population_percent": 49.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CG": {
+      "culture": "fr-CG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 61.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CH": {
+      "culture": "de-CH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 76.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CI": {
+      "culture": "fr-CI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 34.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CK": {
+      "culture": "en-CK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CL": {
+      "culture": "es-CL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CM": {
+      "culture": "fr-CM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 68.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CN": {
+      "culture": "zh-CN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CO": {
+      "culture": "es-CO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 93.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CR": {
+      "culture": "es-CR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CU": {
+      "culture": "es-CU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CV": {
+      "culture": "pt-CV",
+      "basis": "CLDR official-language population default",
+      "population_percent": 76.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CW": {
+      "culture": "pap-CW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 81.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CX": {
+      "culture": "en-CX",
+      "basis": "CLDR official-language population default",
+      "population_percent": 83.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CY": {
+      "culture": "el-CY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "CZ": {
+      "culture": "cs-CZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "DE": {
+      "culture": "de-DE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 91.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "DJ": {
+      "culture": "fr-DJ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 50.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "DK": {
+      "culture": "da-DK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 93.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "DM": {
+      "culture": "en-DM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 94.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "DO": {
+      "culture": "es-DO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 78.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "DZ": {
+      "culture": "ar-DZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 74.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "EC": {
+      "culture": "es-EC",
+      "basis": "CLDR official-language population default",
+      "population_percent": 96.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "EE": {
+      "culture": "et-EE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 71.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "EG": {
+      "culture": "ar-EG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 94.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "EH": {
+      "culture": "ar-EH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ER": {
+      "culture": "ti-ER",
+      "basis": "CLDR official-language population default",
+      "population_percent": 60.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "ES": {
+      "culture": "es-ES",
+      "basis": "CLDR official-language population default",
+      "population_percent": 99.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ET": {
+      "culture": "am-ET",
+      "basis": "CLDR official-language population default",
+      "population_percent": 33.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "FI": {
+      "culture": "fi-FI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 94.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "FJ": {
+      "culture": "en-FJ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 94.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "FK": {
+      "culture": "en-FK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 77.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "FM": {
+      "culture": "en-FM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 57.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "FO": {
+      "culture": "fo-FO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "FR": {
+      "culture": "fr-FR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 97.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GA": {
+      "culture": "fr-GA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 63.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GB": {
+      "culture": "en-GB",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GD": {
+      "culture": "en-GD",
+      "basis": "CLDR official-language population default",
+      "population_percent": 96.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GE": {
+      "culture": "ka-GE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 86.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GF": {
+      "culture": "fr-GF",
+      "basis": "CLDR official-language population default",
+      "population_percent": 62.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GG": {
+      "culture": "en-GG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GH": {
+      "culture": "en-GH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 21.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GI": {
+      "culture": "en-GI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 80.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GL": {
+      "culture": "kl-GL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 84.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GM": {
+      "culture": "en-GM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 40.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GN": {
+      "culture": "fr-GN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 27.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GP": {
+      "culture": "fr-GP",
+      "basis": "CLDR official-language population default",
+      "population_percent": 84.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GQ": {
+      "culture": "es-GQ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 87.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GR": {
+      "culture": "el-GR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 99.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GS": {
+      "culture": "en-GS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GT": {
+      "culture": "es-GT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 93.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GU": {
+      "culture": "en-GU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 91.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GW": {
+      "culture": "pt-GW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "GY": {
+      "culture": "en-GY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "HK": {
+      "culture": "zh-Hant-HK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "HM": {
+      "culture": "und-HM",
+      "basis": "CLDR highest population language fallback",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "HN": {
+      "culture": "es-HN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 78.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "HR": {
+      "culture": "hr-HR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 99.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "HT": {
+      "culture": "ht-HT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 81.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "HU": {
+      "culture": "hu-HU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ID": {
+      "culture": "id-ID",
+      "basis": "CLDR official-language population default",
+      "population_percent": 64.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IE": {
+      "culture": "en-IE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IL": {
+      "culture": "he-IL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IM": {
+      "culture": "en-IM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IN": {
+      "culture": "hi-IN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 41.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IO": {
+      "culture": "en-IO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IQ": {
+      "culture": "ar-IQ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 68.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IR": {
+      "culture": "fa-IR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 75.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IS": {
+      "culture": "is-IS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "IT": {
+      "culture": "it-IT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "JE": {
+      "culture": "en-JE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "JM": {
+      "culture": "en-JM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "JO": {
+      "culture": "ar-JO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "JP": {
+      "culture": "ja-JP",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KE": {
+      "culture": "sw-KE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 66.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KG": {
+      "culture": "ky-KG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 48.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KH": {
+      "culture": "km-KH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 89.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KI": {
+      "culture": "en-KI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KM": {
+      "culture": "ar-KM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 66.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KN": {
+      "culture": "en-KN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KP": {
+      "culture": "ko-KP",
+      "basis": "CLDR official-language population default",
+      "population_percent": 88.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KR": {
+      "culture": "ko-KR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KW": {
+      "culture": "ar-KW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KY": {
+      "culture": "en-KY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "KZ": {
+      "culture": "ru-KZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 72.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "LA": {
+      "culture": "lo-LA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 69.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LB": {
+      "culture": "ar-LB",
+      "basis": "CLDR official-language population default",
+      "population_percent": 86.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LC": {
+      "culture": "en-LC",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LI": {
+      "culture": "de-LI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LK": {
+      "culture": "si-LK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 68.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LR": {
+      "culture": "en-LR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 83.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LS": {
+      "culture": "st-LS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LT": {
+      "culture": "lt-LT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 86.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LU": {
+      "culture": "fr-LU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 92.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LV": {
+      "culture": "lv-LV",
+      "basis": "CLDR official-language population default",
+      "population_percent": 61.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "LY": {
+      "culture": "ar-LY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 74.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MA": {
+      "culture": "ar-MA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 62.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MC": {
+      "culture": "fr-MC",
+      "basis": "CLDR official-language population default",
+      "population_percent": 97.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MD": {
+      "culture": "ro-MD",
+      "basis": "CLDR official-language population default",
+      "population_percent": 63.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ME": {
+      "culture": "sr-Latn-ME",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MF": {
+      "culture": "fr-MF",
+      "basis": "CLDR official-language population default",
+      "population_percent": 84.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MG": {
+      "culture": "mg-MG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MH": {
+      "culture": "en-MH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 93.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MK": {
+      "culture": "mk-MK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 67.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ML": {
+      "culture": "fr-ML",
+      "basis": "CLDR official-language population default",
+      "population_percent": 17.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MM": {
+      "culture": "my-MM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 64.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MN": {
+      "culture": "mn-MN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 93.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MO": {
+      "culture": "zh-Hant-MO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MP": {
+      "culture": "en-MP",
+      "basis": "CLDR official-language population default",
+      "population_percent": 97.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MQ": {
+      "culture": "fr-MQ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 81.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MR": {
+      "culture": "ar-MR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 85.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MS": {
+      "culture": "en-MS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 64.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MT": {
+      "culture": "mt-MT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MU": {
+      "culture": "fr-MU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 73.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "MV": {
+      "culture": "dv-MV",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MW": {
+      "culture": "ny-MW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 63.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "MX": {
+      "culture": "es-MX",
+      "basis": "CLDR official-language population default",
+      "population_percent": 83.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MY": {
+      "culture": "ms-MY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 75.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "MZ": {
+      "culture": "pt-MZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 27.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NA": {
+      "culture": "en-NA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 7.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NC": {
+      "culture": "fr-NC",
+      "basis": "CLDR official-language population default",
+      "population_percent": 99.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NE": {
+      "culture": "fr-NE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 13.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NF": {
+      "culture": "en-NF",
+      "basis": "CLDR official-language population default",
+      "population_percent": 96.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NG": {
+      "culture": "en-NG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 53.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NI": {
+      "culture": "es-NI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 78.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NL": {
+      "culture": "nl-NL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NO": {
+      "culture": "no-NO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "NP": {
+      "culture": "ne-NP",
+      "basis": "CLDR official-language population default",
+      "population_percent": 44.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NR": {
+      "culture": "en-NR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "NU": {
+      "culture": "niu-NU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 56.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "NZ": {
+      "culture": "en-NZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "OM": {
+      "culture": "ar-OM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 81.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PA": {
+      "culture": "es-PA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 69.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PE": {
+      "culture": "es-PE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 73.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PF": {
+      "culture": "fr-PF",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PG": {
+      "culture": "tpi-PG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 71.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PH": {
+      "culture": "en-PH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 64.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "PK": {
+      "culture": "ur-PK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PL": {
+      "culture": "pl-PL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 96.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PM": {
+      "culture": "fr-PM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PN": {
+      "culture": "en-PN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 92.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PR": {
+      "culture": "es-PR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 87.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PS": {
+      "culture": "ar-PS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PT": {
+      "culture": "pt-PT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 96.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PW": {
+      "culture": "pau-PW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 74.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "PY": {
+      "culture": "gn-PY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 80.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "QA": {
+      "culture": "ar-QA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 89.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "RE": {
+      "culture": "fr-RE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 89.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "RO": {
+      "culture": "ro-RO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "RS": {
+      "culture": "sr-Latn-RS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 99.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "RU": {
+      "culture": "ru-RU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 94.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "RW": {
+      "culture": "rw-RW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 77.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SA": {
+      "culture": "ar-SA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SB": {
+      "culture": "en-SB",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SC": {
+      "culture": "fr-SC",
+      "basis": "CLDR official-language population default",
+      "population_percent": 53.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SD": {
+      "culture": "en-SD",
+      "basis": "CLDR official-language population default",
+      "population_percent": 61.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "SE": {
+      "culture": "sv-SE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SG": {
+      "culture": "en-SG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 93.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SH": {
+      "culture": "en-SH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 68.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SI": {
+      "culture": "sl-SI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 87.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SJ": {
+      "culture": "nb-SJ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 51.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SK": {
+      "culture": "sk-SK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SL": {
+      "culture": "en-SL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 35.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SM": {
+      "culture": "it-SM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 89.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SN": {
+      "culture": "wo-SN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 70.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SO": {
+      "culture": "so-SO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 78.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SR": {
+      "culture": "nl-SR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SS": {
+      "culture": "en-SS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 27.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ST": {
+      "culture": "pt-ST",
+      "basis": "CLDR official-language population default",
+      "population_percent": 85.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SV": {
+      "culture": "es-SV",
+      "basis": "CLDR official-language population default",
+      "population_percent": 89.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SX": {
+      "culture": "en-SX",
+      "basis": "CLDR official-language population default",
+      "population_percent": 68.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SY": {
+      "culture": "ar-SY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 80.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "SZ": {
+      "culture": "en-SZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 80.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TC": {
+      "culture": "en-TC",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TD": {
+      "culture": "ar-TD",
+      "basis": "CLDR official-language population default",
+      "population_percent": 17.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "TF": {
+      "culture": "fr-TF",
+      "basis": "CLDR highest population language fallback",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TG": {
+      "culture": "fr-TG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 41.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TH": {
+      "culture": "th-TH",
+      "basis": "CLDR official-language population default",
+      "population_percent": 80.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TJ": {
+      "culture": "tg-TJ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TK": {
+      "culture": "tkl-TK",
+      "basis": "CLDR official-language population default",
+      "population_percent": 69.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TL": {
+      "culture": "tet-TL",
+      "basis": "CLDR official-language population default",
+      "population_percent": 59.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "TM": {
+      "culture": "tk-TM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 70.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TN": {
+      "culture": "ar-TN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TO": {
+      "culture": "to-TO",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TR": {
+      "culture": "tr-TR",
+      "basis": "CLDR official-language population default",
+      "population_percent": 93.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TT": {
+      "culture": "en-TT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 88.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TV": {
+      "culture": "tvl-TV",
+      "basis": "CLDR official-language population default",
+      "population_percent": 85.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TW": {
+      "culture": "zh-Hant-TW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 95.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "TZ": {
+      "culture": "sw-TZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "UA": {
+      "culture": "uk-UA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 65.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "UG": {
+      "culture": "sw-UG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 75.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "UM": {
+      "culture": "en-UM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "US": {
+      "culture": "en-US",
+      "basis": "CLDR official-language population default",
+      "population_percent": 96.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "UY": {
+      "culture": "es-UY",
+      "basis": "CLDR official-language population default",
+      "population_percent": 88.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "UZ": {
+      "culture": "uz-UZ",
+      "basis": "CLDR official-language population default",
+      "population_percent": 85.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "VA": {
+      "culture": "it-VA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 82.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "VC": {
+      "culture": "en-VC",
+      "basis": "CLDR official-language population default",
+      "population_percent": 96.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "VE": {
+      "culture": "es-VE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 82.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "VG": {
+      "culture": "en-VG",
+      "basis": "CLDR official-language population default",
+      "population_percent": 98.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "VI": {
+      "culture": "en-VI",
+      "basis": "CLDR official-language population default",
+      "population_percent": 75.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "VN": {
+      "culture": "vi-VN",
+      "basis": "CLDR official-language population default",
+      "population_percent": 86.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "VU": {
+      "culture": "bi-VU",
+      "basis": "CLDR official-language population default",
+      "population_percent": 90.0,
+      "ambiguous": true,
+      "status": "multiple plausible official-language defaults; manual review required"
+    },
+    "WF": {
+      "culture": "fr-WF",
+      "basis": "CLDR official-language population default",
+      "population_percent": 83.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "WS": {
+      "culture": "sm-WS",
+      "basis": "CLDR official-language population default",
+      "population_percent": 100.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "YE": {
+      "culture": "ar-YE",
+      "basis": "CLDR official-language population default",
+      "population_percent": 74.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "YT": {
+      "culture": "fr-YT",
+      "basis": "CLDR official-language population default",
+      "population_percent": 63.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ZA": {
+      "culture": "en-ZA",
+      "basis": "CLDR official-language population default",
+      "population_percent": 31.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ZM": {
+      "culture": "en-ZM",
+      "basis": "CLDR official-language population default",
+      "population_percent": 16.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    },
+    "ZW": {
+      "culture": "sn-ZW",
+      "basis": "CLDR official-language population default",
+      "population_percent": 81.0,
+      "ambiguous": false,
+      "status": "suggested default; review before applying"
+    }
+  }
+}
