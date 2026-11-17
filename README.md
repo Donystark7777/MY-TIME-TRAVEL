@@ -1,2 +1,4 @@
 # MY-TIME-TRAVEL
-My Time Travel - Windows Desktop Application-Timezon&amp;Region change 
+MY TIME TRAVEL – Windows Desktop Application
+
+A Windows desktop application to detect your location using your public IP address, find the matching time zone from an Excel database, and change Windows Time Zone and Region settings.
